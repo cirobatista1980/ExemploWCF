@@ -1,0 +1,7 @@
+C:\src\dotnet\wcf\wcf\bin\Debug\wcf.exe.config
+C:\src\dotnet\wcf\wcf\bin\Debug\wcf.exe
+C:\src\dotnet\wcf\wcf\bin\Debug\wcf.pdb
+C:\src\dotnet\wcf\wcf\obj\Debug\wcf.csprojAssemblyReference.cache
+C:\src\dotnet\wcf\wcf\obj\Debug\wcf.csproj.CoreCompileInputs.cache
+C:\src\dotnet\wcf\wcf\obj\Debug\wcf.exe
+C:\src\dotnet\wcf\wcf\obj\Debug\wcf.pdb
